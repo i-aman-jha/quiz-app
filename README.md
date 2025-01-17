@@ -18,13 +18,14 @@ engaging user experience with animations and score tracking.
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/cd1fd940-55a8-48e1-a2ef-59320005872f
+https://github.com/user-attachments/assets/9fd41bc3-fde2-4292-95c3-cba47fadeeac
 
 ## Setup Instructions
 
 1. Clone the repository:
 
 ```bash
+
 git clone https://github.com/i-aman-jha/quiz-app.git
 
 ```
